@@ -7,7 +7,7 @@
 
 ## Travel and Adventure
  * ~~See Japan~~
- (https://www.google.com/imgres?imgurl=https%3A%2F%2Fc1.staticflickr.com%2F1%2F526%2F19654576546_ba9176bb64_b.jpg&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkristoffer-trolle%2F19654576546&docid=RN3CZDo4YU7czM&tbnid=l-Oqh5zc9zlXgM%3A&w=1024&h=683&bih=791&biw=1440&ved=0ahUKEwinkYmAz63OAhVH1GMKHQE8CjIQMwiUAShaMFo&iact=mrc&uact=8)
+ ![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fc1.staticflickr.com%2F1%2F526%2F19654576546_ba9176bb64_b.jpg&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkristoffer-trolle%2F19654576546&docid=RN3CZDo4YU7czM&tbnid=l-Oqh5zc9zlXgM%3A&w=1024&h=683&bih=791&biw=1440&ved=0ahUKEwinkYmAz63OAhVH1GMKHQE8CjIQMwiUAShaMFo&iact=mrc&uact=8)
  * Hike more ofen in the PNW
  * **Summit Mt. Rainier**
  * Venture the Cascades
